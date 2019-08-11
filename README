@@ -1,2 +1,5 @@
 While iterating through the process of designing some lasercut drawer dividers to keep some drawers organized,
 I got sick of manually working on things in Illustrator. So I threw together this python.
+
+It's not the best code, but it gets the job done. There are a lot of settings after the function declarations that
+you'll probably want to change.
